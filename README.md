@@ -1,6 +1,6 @@
 # Обо мне:
 
-- 👋 Hi, I’m @Alla-K.
+- 👋 Hi, I’m Alla
 - 👀 I’m interested in marketing, visualization, analytics
 - 🌱 I’m currently learning SQL
 - 💞️ I invite you to collaborate on analytics
