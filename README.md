@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 <tr>
 
 <tr>
-  <td> <a href = "https://github.com/Alla-Kuhtenko/YLAB-Development"> YLAB-Development: Системный анализ </a></td>
+  <td> <a href = "https://github.com/Alla-Kuhtenko/YLAB-Learningt"> YLAB-Learningt: Системный анализ </a></td>
   <td> Дистанционная </td>
   <td> Старт </td>
  <tr>
